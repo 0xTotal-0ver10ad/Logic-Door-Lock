@@ -1,4 +1,4 @@
-Digital Logic Door Lock System
+Digital Logic Door Lock System (on protous)
 A hardware-based security system designed using discrete logic gates and counters. This system compares a user-defined password against a preset code to control a locking mechanism.
 
 System Overview
